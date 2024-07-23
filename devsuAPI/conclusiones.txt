@@ -1,0 +1,10 @@
+
+Este proyecto esta basado en mi proyecto:
+https://github.com/dkmar11/Cypress-TS
+Que tiene un enfoque feature testing hecho con cypress.
+La principal observación del endpoint elegido es el manejo del username para el borrado o/y actualización del registro, normalmente este tipo de endpoints se usa una clave única para evitar que se borren los registros equivocados. A pesar que si se tiene un clave única, denominada ID.
+Otra observación, fuera de los endpoints trabajados, es que existe uno para el login de un usuario, pero este endpoints no devuelve un token de autentificación.
+ Con referencia al proyecto, sobre todo se tiene que tomar en cuenta, que es un proyecto hecho para mostrar habilidad en el framework, es claro que quizás no todas las abstracciones o manejo de archivos y/o funciones no es la mejor.
+Se a usado como gestor de versionamiento GIT por consiguiente, tiene se debería poder visualizar las ramas y los commits usados en el desarrollo del proyecto.
+Existe un video demostrativo de la ejecución de este repositorio en la carpeta raíz, donde se puede visualizar la ejecución de las pruebas.
+conclusiones.txt
